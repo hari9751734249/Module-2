@@ -47,7 +47,7 @@ n = int(input())
 print_pascals_triangle_formula(n)
 ```
 
-## Sample Output
+## Output
 <img width="790" height="537" alt="image" src="https://github.com/user-attachments/assets/994535cb-9b0f-4782-84b8-3e89d9a39504" />
 
 ## Result
